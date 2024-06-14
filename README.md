@@ -84,9 +84,7 @@ The app uses the NewsAPI.org service to fetch news sources and articles. Ensure 
 
 Thank you for checking out the **News Gateway App**! If you have any questions or feedback, feel free to reach out. Happy coding! 😊
 
----
 
-![News Gateway](path/to/your/app_screenshot.png)
 
 ---
 
